@@ -1,5 +1,5 @@
 # MachineLearningChatBot
-This is an experimental project using Python to first programatically dissect, then understand, and finally rebuild chatbot. Her name is Mawar, which is Rose in the Malay-Indonesian language.
+This is an experimental project using Python to first programatically dissect, then understand, and finally rebuild a chatbot. Her name is Mawar, which is Rose in the Malay-Indonesian language.
 
 Steps to try it:
 1. Fork this repository to your GitHub. 
